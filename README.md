@@ -11,6 +11,7 @@ Za vsako knjigo bom zajela:
 - Št. ocen
 - Oceno knjige (na katero vpliva število glasov, ocene bralcev ipd.)
 - Št. glasov
+Vsi ti podatki so zajeti v datoteki knjige.csv
 
 Delovne hipoteze:
 - Ali so bolj popularne knjige del zbirk?
