@@ -4,10 +4,13 @@ Analizirala bom 9000 knjig iz kategorije 'Najboljše knjige 21. stoletja' na spl
 Za vsako knjigo bom zajela:
 - Naslov knjige
 - Avtorja
-- Naslov zbirke (če je knjiga del ene)
+- Naslov zbirke in zaporedno st. knjige v zbirki (če je knjiga del ene)
+- Uvrstitev knjige
+- Id knjige
 - Povprečno oceno bralcev
-- Število glasov
+- Št. ocen
 - Oceno knjige (na katero vpliva število glasov, ocene bralcev ipd.)
+- Št. glasov
 
 Delovne hipoteze:
 - Ali so bolj popularne knjige del zbirk?
