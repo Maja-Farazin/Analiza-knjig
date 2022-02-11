@@ -1,5 +1,5 @@
 # Analiza-knjig
-Analizirala bom 9000 knjig iz kategorije 'Najboljše knjige 21. stoletja' na spletni strani goodreads (https://www.goodreads.com/list/show/7.Best_Books_of_the_21st_Century?page=91).
+Analizirala bom 9000 knjig iz kategorije 'Najboljše knjige 21. stoletja' na spletni strani goodreads (https://www.goodreads.com/list/show/7.Best_Books_of_the_21st_Century?page=1).
 
 Za vsako knjigo bom zajela:
 - Naslov knjige
