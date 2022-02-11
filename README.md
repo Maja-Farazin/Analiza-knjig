@@ -10,10 +10,12 @@ Za vsako knjigo bom zajela:
 - Povprečno oceno bralcev
 - Št. ocen
 - Oceno knjige (na katero vpliva število glasov, ocene bralcev ipd.)
-- Št. glasov
+- Št. glasov  
 Vsi ti podatki so zajeti v datoteki knjige.csv
 
 Delovne hipoteze:
 - Ali so bolj popularne knjige del zbirk?
 - Ali so vse knjige neke zbirke enako popularne?
-- Ali so bolje ocenjene knjige tudi večkrat ocenjene?
+- Ali so bolje ocenjene knjige tudi večkrat ocenjene?  
+
+Med samo analizo podatkov so se nekatere hipoteze spremenile/dodale/odstranile. Končen izdelek, s končnimi hipotezami, analizo, ugotovitvami in zaključkom je v datoteki Analiza_knjig.ipynb
